@@ -4,12 +4,10 @@ lib
 Scripts
 Templates03
 Dermno_RenseNet.h5
-Dermno_RenseNet_02.keras
 eval.py
 model.py
 require.py
 skindisease_InceptionResNet_model.ipynb
 vercel.json
-*.keras
 
 
