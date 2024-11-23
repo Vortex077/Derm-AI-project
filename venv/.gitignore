@@ -9,5 +9,7 @@ model.py
 require.py
 skindisease_InceptionResNet_model.ipynb
 vercel.json
+skindisease_InceptionResnet/
+
 
 
