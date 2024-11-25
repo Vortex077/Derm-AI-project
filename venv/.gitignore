@@ -4,7 +4,6 @@ lib
 Scripts
 Templates03
 Dermno_RenseNet.h5
-eval.py
 model.py
 require.py
 skindisease_InceptionResNet_model.ipynb
